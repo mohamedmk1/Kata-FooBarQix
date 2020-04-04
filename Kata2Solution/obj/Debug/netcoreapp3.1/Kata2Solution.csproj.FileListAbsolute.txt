@@ -1,0 +1,13 @@
+C:\Tutos\C#\Kata2Solution\Kata2Solution\bin\Debug\netcoreapp3.1\Kata2Solution.exe
+C:\Tutos\C#\Kata2Solution\Kata2Solution\bin\Debug\netcoreapp3.1\Kata2Solution.deps.json
+C:\Tutos\C#\Kata2Solution\Kata2Solution\bin\Debug\netcoreapp3.1\Kata2Solution.runtimeconfig.json
+C:\Tutos\C#\Kata2Solution\Kata2Solution\bin\Debug\netcoreapp3.1\Kata2Solution.runtimeconfig.dev.json
+C:\Tutos\C#\Kata2Solution\Kata2Solution\bin\Debug\netcoreapp3.1\Kata2Solution.dll
+C:\Tutos\C#\Kata2Solution\Kata2Solution\bin\Debug\netcoreapp3.1\Kata2Solution.pdb
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.csprojAssemblyReference.cache
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.AssemblyInfoInputs.cache
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.AssemblyInfo.cs
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.dll
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.pdb
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.csproj.CoreCompileInputs.cache
+C:\Tutos\C#\Kata2Solution\Kata2Solution\obj\Debug\netcoreapp3.1\Kata2Solution.genruntimeconfig.cache
